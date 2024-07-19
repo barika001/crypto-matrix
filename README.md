@@ -45,15 +45,19 @@
 <p>
   Landing Page with real-time prices of trending Cryptocurrencies
 <img src="https://github.com/barika001/crypto-matrix/blob/main/public/asset/1.png" alt="">
+  
   List of Cyptocurrencies by Market Cap
 <img src="https://github.com/barika001/crypto-matrix/blob/main/public/asset/2.png" alt="">
+  
   Seach feature
 <img src="https://github.com/barika001/crypto-matrix/blob/main/public/asset/3.png" alt="">
+  
   Historical Charts
 <img src="https://github.com/barika001/crypto-matrix/blob/main/public/asset/4.png" alt="">
 <img src="https://github.com/barika001/crypto-matrix/blob/main/public/asset/5.png" alt="">
+  
   Responsive view on mobile
-<img src="https://github.com/barika001/crypto-matrix/blob/main/public/asset/6.png" alt="" width="33%">
+<img src="https://github.com/barika001/crypto-matrix/blob/main/public/asset/6.png" alt="" width="34%">
 <img src="https://github.com/barika001/crypto-matrix/blob/main/public/asset/7.png" alt="" width="33%">
 <img src="https://github.com/barika001/crypto-matrix/blob/main/public/asset/8.png" alt="" width="33%">
 
