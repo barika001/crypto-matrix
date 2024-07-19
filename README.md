@@ -56,7 +56,7 @@
 <img src="https://github.com/barika001/crypto-matrix/blob/main/public/asset/4.png" alt="">
 <img src="https://github.com/barika001/crypto-matrix/blob/main/public/asset/5.png" alt="">
   
-  Responsive view on mobile
+  Responsive view on mobile <br>
 <img src="https://github.com/barika001/crypto-matrix/blob/main/public/asset/6.png" alt="" width="34%">
 <img src="https://github.com/barika001/crypto-matrix/blob/main/public/asset/7.png" alt="" width="33%">
 <img src="https://github.com/barika001/crypto-matrix/blob/main/public/asset/8.png" alt="" width="33%">
